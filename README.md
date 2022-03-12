@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssillanp
 - 👀 I’m interested in about everything, I am a late blooming, hobbyist want-to-be-developer.
-- 🌱 I’m currently learning Databases and APIs, Java and python.
+- 🌱 I’m currently learning FullStack, C, Databases and APIs, Java and python.
 - 📫 How to reach me email sami.sillanpaa at iki.fi, discord: sasimi#5736 
 
 <!---
